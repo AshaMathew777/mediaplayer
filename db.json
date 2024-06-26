@@ -1,0 +1,188 @@
+{
+  "videos": [
+    {
+      "caption": " Illuminanti",
+      "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+      "id": 1
+    },
+    {
+      "caption": "LEO ",
+      "image": "https://i.ytimg.com/vi/3wDiqlTNlfQ/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "id": 2
+    },
+    {
+      "caption": "Kuttanadan Kaayalile",
+      "image": "https://i.ytimg.com/vi/eBQ9sDOB91s/mqdefault.jpg",
+      "url": "https://www.youtube.com/embed/k_81OMJCmjQ",
+      "id": 3
+    },
+    {
+      "caption": "Oru Kathilola Njan",
+      "image": "https://i.ytimg.com/vi/Z2rDnTOErnk/sddefault.jpg?v=617fac4b",
+      "url": "https://www.youtube.com/embed/Rz-hqTc1KXk",
+      "id": 4
+    },
+    {
+      "caption": "King of Kotha ",
+      "image": "https://m.media-amazon.com/images/M/MV5BZjEzZTdiODQtODkwNy00ZTc4LWI5ZjEtYjRiOTgzMmMwODExXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg",
+      "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+      "id": 5
+    },
+    {
+      "caption": "Vennila Chandana Kinnam",
+      "image": "https://i.ytimg.com/vi/ysKgGtyBPak/maxresdefault.jpg",
+      "url": "https://www.youtube.com/embed/ysKgGtyBPak",
+      "id": 6
+    },
+    {
+      "caption": "Dynamite bts",
+      "image": "https://6.soompi.io/wp-content/uploads/image/20240222233241_BTS.jpg?s=900x600&e=t",
+      "url": "https://www.youtube.com/embed/gdZLi9oWNZg",
+      "id": 8
+    },
+    {
+      "caption": "Agar Tum Saath Ho",
+      "image": "https://i1.sndcdn.com/artworks-000134468916-qawkmk-t500x500.jpg",
+      "url": "https://www.youtube.com/embed/j3oPbe9z39Q",
+      "id": 9
+    }
+  ],
+  "category": [
+    {
+      "CategoryName": "Tamil Songs",
+      "allvideo": [
+        {
+          "caption": "LEO ",
+          "image": "https://i.ytimg.com/vi/3wDiqlTNlfQ/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+          "id": 2
+        }
+      ],
+      "id": 1
+    },
+    {
+      "CategoryName": "Hindi Songs",
+      "allvideo": [
+        {
+          "caption": "Agar Tum Saath Ho",
+          "image": "https://i1.sndcdn.com/artworks-000134468916-qawkmk-t500x500.jpg",
+          "url": "https://www.youtube.com/embed/j3oPbe9z39Q",
+          "id": 9
+        },
+        {
+          "caption": "Vennila Chandana Kinnam",
+          "image": "https://i.ytimg.com/vi/ysKgGtyBPak/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/ysKgGtyBPak",
+          "id": 6
+        }
+      ],
+      "id": 2
+    },
+    {
+      "CategoryName": "malayalam songs",
+      "allvideo": [
+        {
+          "caption": " Illuminanti",
+          "image": "https://i.ytimg.com/vi/tOM-nWPcR4U/maxresdefault.jpg",
+          "url": "https://www.youtube.com/embed/tOM-nWPcR4U",
+          "id": 1
+        },
+        {
+          "caption": "King of Kotha ",
+          "image": "https://m.media-amazon.com/images/M/MV5BZjEzZTdiODQtODkwNy00ZTc4LWI5ZjEtYjRiOTgzMmMwODExXkEyXkFqcGdeQXVyMTYzMTU3Njgx._V1_.jpg",
+          "url": "https://www.youtube.com/embed/VzT2xurZrbI",
+          "id": 5
+        }
+      ],
+      "id": 4
+    },
+    {
+      "CategoryName": "korean songs",
+      "allvideo": [
+        {
+          "caption": "Dynamite bts",
+          "image": "https://6.soompi.io/wp-content/uploads/image/20240222233241_BTS.jpg?s=900x600&e=t",
+          "url": "https://www.youtube.com/embed/gdZLi9oWNZg",
+          "id": 8
+        }
+      ],
+      "id": 5
+    }
+  ],
+  "history": [
+    {
+      "caption": "Kuttanadan Kaayalile",
+      "url": "https://www.youtube.com/embed/k_81OMJCmjQ",
+      "timeStamp": "20/06/2024, 23:37:56",
+      "id": 1
+    },
+    {
+      "caption": "Kuttanadan Kaayalile",
+      "url": "https://www.youtube.com/embed/k_81OMJCmjQ",
+      "timeStamp": "25/06/2024, 22:53:58",
+      "id": 2
+    },
+    {
+      "caption": "Kuttanadan Kaayalile",
+      "url": "https://www.youtube.com/embed/k_81OMJCmjQ",
+      "timeStamp": "25/06/2024, 22:54:12",
+      "id": 3
+    },
+    {
+      "caption": "Agar Tum Saath Ho",
+      "url": "https://www.youtube.com/embed/j3oPbe9z39Q",
+      "timeStamp": "25/06/2024, 22:54:29",
+      "id": 4
+    },
+    {
+      "caption": "LEO ",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "25/06/2024, 22:56:03",
+      "id": 5
+    },
+    {
+      "caption": "Oru Kathilola Njan",
+      "url": "https://www.youtube.com/embed/Rz-hqTc1KXk",
+      "timeStamp": "25/06/2024, 22:56:40",
+      "id": 6
+    },
+    {
+      "caption": "Oru Kathilola Njan",
+      "url": "https://www.youtube.com/embed/Rz-hqTc1KXk",
+      "timeStamp": "25/06/2024, 22:56:44",
+      "id": 7
+    },
+    {
+      "caption": "Dynamite bts",
+      "url": "https://www.youtube.com/embed/gdZLi9oWNZg",
+      "timeStamp": "25/06/2024, 22:57:53",
+      "id": 8
+    },
+    {
+      "caption": "Kuttanadan Kaayalile",
+      "url": "https://www.youtube.com/embed/k_81OMJCmjQ",
+      "timeStamp": "25/06/2024, 23:25:41",
+      "id": 9
+    },
+    {
+      "caption": "LEO ",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "25/06/2024, 23:47:09",
+      "id": 10
+    },
+    {
+      "caption": "Dynamite bts",
+      "url": "https://www.youtube.com/embed/gdZLi9oWNZg",
+      "timeStamp": "26/06/2024, 00:51:16",
+      "id": 11
+    },
+    {
+      "caption": "LEO ",
+      "url": "https://www.youtube.com/embed/3wDiqlTNlfQ",
+      "timeStamp": "26/06/2024, 07:41:36",
+      "id": 12
+    }
+  ]
+}
